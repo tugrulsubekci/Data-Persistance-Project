@@ -1326,6 +1326,7 @@ MonoBehaviour:
   playerName: 
   newPlayerName: 
   highScore: 0
+  bestScoreText: {fileID: 1242810809}
 --- !u!1 &1242810807
 GameObject:
   m_ObjectHideFlags: 0
